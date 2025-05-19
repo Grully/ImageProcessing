@@ -539,6 +539,11 @@ namespace WindowsFormsApp1
 
         }
 
+        private void label19_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             b = new Bitmap((string)Environment.CurrentDirectory + "\\image.jpg");
